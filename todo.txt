@@ -1,0 +1,14 @@
+JavaScript - Codecademy
+HTML - Codecademy
+CSS - Codecademy
+Git - Codecademy
+
+Backend Engineer - Codecademy
+Create a Backend app with JavaScript - Codecademy
+Build Python Web apps with Django - Codecademy
+Build a Website with HTML, CSS and Github pages - Codecademy
+
+
+How to Deploy a Website - Codecademy
+
+Devops - Edureka Youtube
